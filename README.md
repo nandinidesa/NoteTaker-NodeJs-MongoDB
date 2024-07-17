@@ -1,4 +1,4 @@
-##The project includes the following key features:
+The project includes the following key features:
 
 - A basic front-end interface built with EJS (Embedded JavaScript) templates to interact with the CRUD functionality. 
 - Server-side code written in Node.js and Express to handle the API endpoints for the CRUD operations. 
